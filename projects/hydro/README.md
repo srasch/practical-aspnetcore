@@ -11,3 +11,7 @@
 * [Global event](event-global)
 
   This sample introduces the usage of dispatching global event so any subscribing component can receive it. 
+
+* [Global event subject](event-global-subject)
+  
+  This sample demonstrates the ability to filter events based on specific subject.
