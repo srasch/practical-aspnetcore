@@ -15,3 +15,7 @@
 * [Global event subject](event-global-subject)
   
   This sample demonstrates the ability to filter events based on specific subject.
+
+* [Cookies](cookies)
+
+  This sample shows how to set and delete a cookie from a Hydro component. 
