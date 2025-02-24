@@ -16,7 +16,7 @@ You can find samples on new features availabel in ASP.NET Core 9(3) [here](/proj
 ## Other Samples
 
 - For ATProtocol (the underlying open protocol for Bluesky) related samples, you can find them [here](https://github.com/dodyg/bluenile). 
-- For Hydro Framework (Razor Pages compatible), you can find them [here](/projects/hydro/)(5).
+- For Hydro Framework (Razor Pages compatible), you can find them [here](/projects/hydro/)(6).
 - [Official .NET Aspire samples](https://github.com/dotnet/aspire-samples).
 - For Data Access samples, go to the excellent [ORM Cookbook](https://github.com/Grauenwolf/DotNet-ORM-Cookbook).
 - .NET team also has [a sample repository](https://github.com/dotnet/samples).
