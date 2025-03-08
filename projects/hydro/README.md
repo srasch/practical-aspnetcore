@@ -23,3 +23,7 @@
 * [Component-1](component-1)
 
   This sample demonstrates how Hydro support nested components, how the data flow from parent to child, and how to communicate change from parent to child via **key** parameter.
+
+* [Component-2](component-2)
+
+  This sample introduces the subtelties of component nested rendering.
