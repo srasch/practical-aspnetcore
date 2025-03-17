@@ -16,6 +16,10 @@
 
   This example shows how to use `LoggerMessageAttribute` to source generate high performance logging API.
 
+* [Created static logger](/projects/logging/logging-5)
+
+  This examples show how to create cached static loggers. 
+
 * [Logging to Grafana Loki](/projects/logging/logging-Loki)
 
   This example shows how to log to [Grafana Loki](https://grafana.com/oss/loki/).

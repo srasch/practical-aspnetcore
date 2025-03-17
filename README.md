@@ -46,7 +46,7 @@ You can find samples on new features availabel in ASP.NET Core 9(3) [here](/proj
 | [HTMX](/projects/htmx)                                                  | 40  |                                                                              |
 | [IHttpClientFactory](/projects/httpclientfactory)                       | 4   |                                                                              |
 | [IHostedService](/projects/ihosted-service)                             | 2   |                                                                              |
-| [Logging](/projects/logging)                                            | 5   |                                                                              |
+| [Logging](/projects/logging)                                            | 6   |                                                                              |
 | [Localization and Globalization](/projects/localization)                | 6   |                                                                              |
 | [Middleware](/projects/middleware)                                      | 14  |                                                                              |
 | [Mini Apps](/projects/mini)                                             | 2   |                                                                              |
