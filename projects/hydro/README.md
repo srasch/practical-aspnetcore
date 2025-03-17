@@ -27,3 +27,7 @@
 * [Component-2](component-2)
 
   This sample introduces the subtelties of component nested rendering.
+
+* [Component-3](component-3)
+
+  This sample introduces how you can hook into Hydro's component lifecyle via `Mount/MountAsync` and 'Render/RenderAsync'.
