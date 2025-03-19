@@ -7,7 +7,7 @@ Greetings from Cairo, Egypt. You can [sponsor](https://github.com/sponsors/dodyg
 
 ## ASP.NET Core 10
 
-You can find samples on new features availabel in ASP.NET Core 10(0) [here](/projects/net10).
+You can find samples on new features availabel in ASP.NET Core 10(1) [here](/projects/net10).
 
 ## ASP.NET Core 9
 
