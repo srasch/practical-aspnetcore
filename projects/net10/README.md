@@ -1,4 +1,4 @@
-# ASP.NET Core 10 (2)
+# ASP.NET Core 10 (3)
 
 These samples require SDK [10-preview.2](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 
@@ -9,3 +9,7 @@ These samples require SDK [10-preview.2](https://dotnet.microsoft.com/en-us/down
 - [open-api-9](open-api-9)
 
   This sample shows how to generate OpenAPI documentation YAML format.
+
+- [redirect-http-result-is-local-url](redirect-http-result-is-local-url)
+
+  This sample how to use `RedirectHttpResult.IsLocalUrl` to detect if a URL is local.
