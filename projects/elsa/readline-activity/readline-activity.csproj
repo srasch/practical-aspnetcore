@@ -5,6 +5,6 @@
     <NoWarn>ASP0000</NoWarn>
   </PropertyGroup>
   <ItemGroup>
-      <PackageReference Include="Elsa" Version="3.1.2" />
+      <PackageReference Include="Elsa" Version="3.3.5" />
   </ItemGroup>
 </Project>

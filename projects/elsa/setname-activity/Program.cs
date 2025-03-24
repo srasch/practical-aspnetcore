@@ -1,7 +1,6 @@
 using Elsa.Extensions;
 using Elsa.Workflows;
 using Elsa.Workflows.Activities;
-using Elsa.Workflows.Contracts;
 
 var services = new ServiceCollection();
 services.AddElsa();
