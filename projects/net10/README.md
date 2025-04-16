@@ -1,4 +1,4 @@
-# ASP.NET Core 10 (3)
+# ASP.NET Core 10 (4)
 
 These samples require SDK [10-preview.3](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 
@@ -13,3 +13,7 @@ These samples require SDK [10-preview.3](https://dotnet.microsoft.com/en-us/down
 - [redirect-http-result-is-local-url](redirect-http-result-is-local-url)
 
   This sample how to use `RedirectHttpResult.IsLocalUrl` to detect if a URL is local.
+
+- [sse-2](sse-2)
+
+  Use `Results.ServerSentEvents` to return Server Side Events on Minimal API.
