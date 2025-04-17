@@ -1,4 +1,4 @@
-# ASP.NET Core 10 (5)
+# ASP.NET Core 10 (6)
 
 These samples require SDK [10-preview.3](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 
@@ -21,3 +21,7 @@ These samples require SDK [10-preview.3](https://dotnet.microsoft.com/en-us/down
 - [sse-3](sse-3)
 
   Use `Results.ServerSentEvents` to return Server Side Events with Event Type on Minimal API.
+
+- [sse-4](sse-4)
+
+  Use `Results.ServerSentEvents` to return Server Side Events with mixed events on Minimal API.
