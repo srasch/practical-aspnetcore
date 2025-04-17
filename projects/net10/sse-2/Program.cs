@@ -18,7 +18,7 @@ app.MapGet("/sse", (HttpContext context, CancellationToken cancellationToken) =>
 
     if (context.Request.Headers["Accept"] == "text/event-stream")
     {
-        return Results.ServerSentEvents(CounterAsync(cancellationToken));
+        return Results.ServerSentEvents(CounterAsync(cancellationToken), "greeting");
     }
     else
     {
