@@ -1,4 +1,4 @@
-# ASP.NET Core 10 (6)
+# ASP.NET Core 10 (7)
 
 These samples require SDK [10-preview.3](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 
@@ -25,3 +25,10 @@ These samples require SDK [10-preview.3](https://dotnet.microsoft.com/en-us/down
 - [sse-4](sse-4)
 
   Use `Results.ServerSentEvents` to return Server Side Events with mixed events on Minimal API.
+
+
+## Validation
+
+- [validation-1](validation-1)
+
+  This example shows how the to validate complex object bound with the route via `[AsParameter]` attribute.
