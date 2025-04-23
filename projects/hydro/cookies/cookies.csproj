@@ -5,6 +5,6 @@
     <AssemblyName>Cookies</AssemblyName>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Hydro" Version="1.1.0" />
+    <PackageReference Include="Hydro" Version="1.2.0" />
   </ItemGroup>
 </Project>
