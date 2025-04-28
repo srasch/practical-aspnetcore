@@ -1,4 +1,4 @@
-# ASP.NET Core 10 (7)
+# ASP.NET Core 10 (8)
 
 These samples require SDK [10-preview.3](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 
@@ -32,3 +32,7 @@ These samples require SDK [10-preview.3](https://dotnet.microsoft.com/en-us/down
 - [validation-1](validation-1)
 
   This example shows how the to validate complex object bound with the route via `[AsParameter]` attribute.
+
+- [validation-2](validation-2)
+
+  This time we implement `IValidatableObject` to implement custom validation logic. 

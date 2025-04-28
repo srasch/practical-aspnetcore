@@ -5,3 +5,4 @@ dotnet build sse-2
 dotnet build sse-3
 dotnet build sse-4
 dotnet build validation-1
+dotnet build validation-2
